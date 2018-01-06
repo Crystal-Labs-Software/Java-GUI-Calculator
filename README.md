@@ -3,7 +3,7 @@
 
 Example for Linux:
 
-button1.setIcon(new ImageIcon("/home/user/pictures/Buttons/GimpBotton1.jpg"));
+button1.setIcon(new ImageIcon("/home/username/pictures/Buttons/GimpBotton1.jpg"));
 
 Example for Windows:
 
